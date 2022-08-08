@@ -202,7 +202,13 @@
         <artifactId>jsp-api</artifactId>
         <version>2.2</version>
       </dependency>
-
+	    
+      <dependency>
+        <groupId>org.jenkins-ci.plugins</groupId>
+        <artifactId>job-dsl-core</artifactId>
+        <version>1.76</version>
+      </dependency>
+  
       <dependency>
         <groupId>junit</groupId>
         <artifactId>junit-dep</artifactId>
